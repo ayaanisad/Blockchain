@@ -1,4 +1,4 @@
-# Revision history for PROJECT-ATHON
+# Revision history for MathBounty
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
